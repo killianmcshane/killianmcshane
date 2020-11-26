@@ -24,11 +24,11 @@
 
 ### Languages and Tools:
 
-[![Generic badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
-[![Generic badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]
-[![Generic badge](https://img.shields.io/badge/Haskell-666666?style=for-the-badge&logo=haskell&logoColor=white)]
-[![Generic badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]
-[![Generic badge](https://img.shields.io/badge/VScode-0FAAFF?style=for-the-badge&logo=visual-studio-code&logoColor=white)]
+![Generic badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Generic badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Generic badge](https://img.shields.io/badge/Haskell-666666?style=for-the-badge&logo=haskell&logoColor=white)
+![Generic badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Generic badge](https://img.shields.io/badge/VScode-0FAAFF?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <br />
 
