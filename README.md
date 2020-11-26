@@ -1,4 +1,7 @@
-### Hi, I'm Killian - welcome to my corner of GitHub! 👋
+### Hi, I'm Killian. Welcome to my little corner of GitHub.
+
+### Connect with me:
+
 
 [![Website](https://img.shields.io/website?label=killianmcshane.io&style=for-the-badge&url=https%3A%2F%2Fkillianmcshane.github.io)](https://killianmcshane.github.io/)
 [![Website](https://img.shields.io/badge/killianmcshane-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/killian-mcshane-1a71b3197/)
@@ -11,14 +14,6 @@
 - 🌱 I’m currently learning C++.
 - 👯 I’d love to collaborate with other content creators!
 - ⚡ I'm training for my first competitive Google Code Jam in 2021!
-
-<br />
-
-### Connect with me:
-
-[<img align="left" alt="killianmcshane.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Killian McShane | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="killianmcshane | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
