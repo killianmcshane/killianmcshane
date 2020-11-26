@@ -1,7 +1,9 @@
 ### Hi, I'm Killian - welcome to my corner of GitHub! 👋
 
 [![Website](https://img.shields.io/website?label=killianmcshane&style=for-the-badge&url=https%3A%2F%2Fkillianmcshane.io)](https://github.com/killianmcshane)
-[![LinkedIn Follow](https://img.shields.io/badge/killianmcshane-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/killian-mcshane-1a71b3197/)
+[![LinkedIn](https://img.shields.io/badge/killianmcshane-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/killian-mcshane-1a71b3197/)
+
+<br />
 
 ## I'm a student of computer science, specialising in data science and AI.
 
