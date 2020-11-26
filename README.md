@@ -1,7 +1,7 @@
 ### Hi, I'm Killian - welcome to my corner of GitHub! 👋
 
 [![Website](https://img.shields.io/website?label=killianmcshane&style=for-the-badge&url=https%3A%2F%2Fkillianmcshane.io)](https://github.com/killianmcshane)
-[![LinkedIn Follow](https://img.shields.io/linkedin/follow/killian-mcshane-1a71b3197?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/killian-mcshane-1a71b3197/)
+[![LinkedIn Follow](https://img.shields.io/badge/killianmcshane-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/killian-mcshane-1a71b3197/)
 
 ## I'm a student of computer science, specialising in data science and AI.
 
@@ -9,6 +9,8 @@
 - 🌱 I’m currently learning C++.
 - 👯 I’d love to collaborate with other content creators!
 - ⚡ I'm training for my first competitive Google Code Jam in 2021!
+
+<br />
 
 ### Connect with me:
 
@@ -20,9 +22,9 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png />]
-[<img align="left" alt="Visual Studio Code" width="26px" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png />]
-[<img align="left" alt="Visual Studio Code" width="26px" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png />]
+[<img align="left" alt="Python" width="26px" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png />]
+[<img align="left" alt="Java" width="26px" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png />]
+[<img align="left" alt="Haskell" width="26px" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
