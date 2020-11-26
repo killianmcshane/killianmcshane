@@ -24,11 +24,11 @@
 
 ### Languages and Tools:
 
-[<https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white />]
-[<https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white />]
-[<https://img.shields.io/badge/Haskell-666666?style=for-the-badge&logo=haskell&logoColor=white />]
-[<https://img.shields.io/badge/VScode-0FAAFF?style=for-the-badge&logo=visual-studio-code&logoColor=white />]
-[<https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white />]
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+https://img.shields.io/badge/Haskell-666666?style=for-the-badge&logo=haskell&logoColor=white
+https://img.shields.io/badge/VScode-0FAAFF?style=for-the-badge&logo=visual-studio-code&logoColor=white
+https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 
 <br />
 
