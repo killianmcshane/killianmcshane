@@ -4,7 +4,7 @@
 
 
 [![Website](https://img.shields.io/website?label=killianmcshane.io&style=for-the-badge&url=https%3A%2F%2Fkillianmcshane.github.io)](https://killianmcshane.github.io/)
-[![Website](https://img.shields.io/badge/killianmcshane-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/killian-mcshane-1a71b3197/)
+[![Website](https://img.shields.io/badge/killianmcshane-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/killianmcshane/)
 
 <br />
 
