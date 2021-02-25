@@ -31,6 +31,6 @@
 
 [instagram]: https://instagram.com/killianmcshane
 
-[linkedin]: https://www.linkedin.com/in/killian-mcshane-1a71b3197/
+[linkedin]: https://www.linkedin.com/in/killianmcshane/
 
 [repo]: https://github.com/killianmcshane/Optical-Digit-Recognition-Using-Self-Implemented-k-Nearest-Neighbours-Algorithm
