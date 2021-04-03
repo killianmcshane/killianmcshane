@@ -10,7 +10,7 @@
 
 ## I'm a student of computer science, specialising in data science and AI.
 
-- 🔭 Check out my first ever repository: [Handwritten Digit Recognition (from scratch!)][first_repo]
+- 🔭 My first ever repository: [Handwritten Digit Recognition (from scratch!)][first_repo]
 - ⚡ Developing an automatic content generation/posting application, check it out here: [autogram][repo]
 - 🌱 I’m currently learning C++.
 - 👯 I’d love to collaborate with other content creators!
