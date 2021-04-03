@@ -10,10 +10,10 @@
 
 ## I'm a student of computer science, specialising in data science and AI.
 
-- 🔭 I just launched my first repository: [Handwritten Digit Recognition (from scratch!)][repo]
+- 🔭 Check out my first ever repository: [Handwritten Digit Recognition (from scratch!)][first_repo]
+- ⚡ Developing an automatic content generation/posting application, check it out here: [autogram][repo]
 - 🌱 I’m currently learning C++.
 - 👯 I’d love to collaborate with other content creators!
-- ⚡ I'm training for my first competitive Google Code Jam in 2021!
 
 <br />
 
@@ -33,4 +33,6 @@
 
 [linkedin]: https://www.linkedin.com/in/killianmcshane/
 
-[repo]: https://github.com/killianmcshane/Optical-Digit-Recognition-Using-Self-Implemented-k-Nearest-Neighbours-Algorithm
+[first_repo]: https://github.com/killianmcshane/Optical-Digit-Recognition-Using-Self-Implemented-k-Nearest-Neighbours-Algorithm
+
+[repo]: https://killianmcshane.github.io
