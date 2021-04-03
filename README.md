@@ -35,4 +35,4 @@
 
 [first_repo]: https://github.com/killianmcshane/Optical-Digit-Recognition-Using-Self-Implemented-k-Nearest-Neighbours-Algorithm
 
-[repo]: https://killianmcshane.github.io
+[repo]: https://github.com/killianmcshane/autogram
