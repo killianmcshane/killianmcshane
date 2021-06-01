@@ -1,4 +1,4 @@
-### Hi, I'm Killian. Welcome to my little corner of GitHub.
+### Hi, I'm Killian. Welcome to my wee corner of GitHub.
 
 ### Connect with me:
 
