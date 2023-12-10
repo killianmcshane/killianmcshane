@@ -1,4 +1,4 @@
-### Hi, I'm Killian. Welcome to my wee corner of GitHub!
+### Hi, I'm Killian. Welcome to my corner of GitHub.
 
 ### Connect with me:
 
@@ -11,9 +11,6 @@
 ## I'm a graduate of computer science, working in machine learning.
 
 - 🔭 My first ever repository: [Handwritten Digit Recognition (from scratch!)][first_repo]
-- ⚡ Developing an automatic content generation/posting application, check it out here: [autogram][repo]
-- 🌱 I’m currently learning C++.
-- 👯 I’d love to collaborate with other content creators!
 
 <br />
 
