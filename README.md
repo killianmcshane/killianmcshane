@@ -2,13 +2,14 @@
 
 ### Connect with me:
 
-
-[![Website](https://img.shields.io/website?label=killianmcshane.io&style=for-the-badge&url=https%3A%2F%2Fkillianmcshane.github.io)](https://killianmcshane.github.io/)
 [![Website](https://img.shields.io/badge/killianmcshane-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/killianmcshane/)
 
 <br />
 
-## I'm a graduate of computer science, working in machine learning.
+## With over 3 years of industry experience in machine learning, I hold certifications in both Amazon Web Services and Microsoft Azure
+cloud platforms, in addition to being certified as a Terraform Associate. I have an advanced understanding of PyTorch, Tensorflow, Docker, and a range of other critical machine learning tools. I'm proficient with Python, SQL, and a variety of other programming
+languages. Additionally, I have hands-on experience in data analysis, visualization, and logging using Power BI, Tableau, Weights &
+Biases, ELK, and ML Flow.
 
 - 🔭 My first ever repository: [Handwritten Digit Recognition (from scratch!)][first_repo]
 
