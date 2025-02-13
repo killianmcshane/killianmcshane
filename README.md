@@ -6,11 +6,6 @@
 
 <br />
 
-## With over 3 years of industry experience in machine learning, I hold certifications in both Amazon Web Services and Microsoft Azure
-cloud platforms, in addition to being certified as a Terraform Associate. I have an advanced understanding of PyTorch, Tensorflow, Docker, and a range of other critical machine learning tools. I'm proficient with Python, SQL, and a variety of other programming
-languages. Additionally, I have hands-on experience in data analysis, visualization, and logging using Power BI, Tableau, Weights &
-Biases, ELK, and ML Flow.
-
 - 🔭 My first ever repository: [Handwritten Digit Recognition (from scratch!)][first_repo]
 
 <br />
